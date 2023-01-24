@@ -1,0 +1,15 @@
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/DesafioPOO
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/DesafioPOO.deps.json
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/DesafioPOO.runtimeconfig.json
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/DesafioPOO.dll
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/ref/DesafioPOO.dll
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/bin/Debug/net6.0/DesafioPOO.pdb
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.csproj.AssemblyReference.cache
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.AssemblyInfo.cs
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.dll
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/ref/DesafioPOO.dll
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.pdb
+/home/neres/Documents/bootcamp/dotnet/projetos/trilha-net-poo-desafio-main/obj/Debug/net6.0/DesafioPOO.genruntimeconfig.cache
